@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tulum/precache-manifest.e95805ab7099e17fe2baf7d4cf0dfc87.js"
+  "/tulum/precache-manifest.125f03e74115cbcae407bce5e698ab60.js"
 );
 
 workbox.clientsClaim();

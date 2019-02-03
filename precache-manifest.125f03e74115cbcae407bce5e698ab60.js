@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/tulum/static/media/tacos.8ef4bb8c.jpeg"
   },
   {
-    "revision": "81101214f43908f58bb9846516410430",
-    "url": "/tulum/static/media/raspericos.81101214.jpeg"
+    "revision": "258f1db89bfe86ed9ba8e2e3e7859d96",
+    "url": "/tulum/static/media/raspericos.258f1db8.jpeg"
   },
   {
     "revision": "aae4e9149485a4ec8be21a87dcbb0ef8",
@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/tulum/static/js/runtime~main.1a638da3.js"
   },
   {
-    "revision": "2069bc019b8c1b4c694d",
-    "url": "/tulum/static/js/main.2069bc01.chunk.js"
+    "revision": "0f239e079e00b8f01a06",
+    "url": "/tulum/static/js/main.0f239e07.chunk.js"
   },
   {
     "revision": "8e758ad169d171081bae",
     "url": "/tulum/static/js/1.8e758ad1.chunk.js"
   },
   {
-    "revision": "2069bc019b8c1b4c694d",
+    "revision": "0f239e079e00b8f01a06",
     "url": "/tulum/static/css/main.54c8dc17.chunk.css"
   },
   {
-    "revision": "0944a6793950dea06ed3b152fd428fa5",
+    "revision": "07c2f35a61e25c7482ad3be388bd548c",
     "url": "/tulum/index.html"
   }
 ];
